@@ -130,4 +130,4 @@ MIT License – Feel free to use, modify, and distribute. See [LICENSE](LICENSE)
 ---
 
 *Last Updated: October 2024*  
-For questions, contact [your-email@example.com] or open an issue on GitHub. Happy analyzing! 📈
+For questions, contact [sanskaar.17chauhan@gmail.com] or open an issue on GitHub. Happy analyzing! 📈
