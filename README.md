@@ -80,13 +80,13 @@ python-dateutil>=2.8.0  # For precise date handling
 
    Example output from data fetch:
    ```
-   Date range: 2021-10-18 to 2024-10-18
+   Date range: 2022 to 2025
    Downloaded data shape: (750, 15)
    ```
 
    For live updates:
    ```
-   ✓ Updated RELIANCE.NS with data for 2024-10-18
+   ✓ Updated RELIANCE.NS with data for 2025-9-25
    Live price update completed
    ```
 
@@ -129,5 +129,5 @@ MIT License – Feel free to use, modify, and distribute. See [LICENSE](LICENSE)
 
 ---
 
-*Last Updated: October 2024*  
+*Last Updated: September 2025*  
 For questions, contact [sanskaar.17chauhan@gmail.com] or open an issue on GitHub. Happy analyzing! 📈
