@@ -1,0 +1,15 @@
+﻿stockenv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+*.sqlite3
+*.log
+*.csv
+*.xlsx
+.idea/
+.vscode/
+coverage/
+dist/
+build/
